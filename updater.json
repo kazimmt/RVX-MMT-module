@@ -1,0 +1,12 @@
+{
+  "latestReVancedVersion": "17.29.34",
+  "latestReVancedHash": "1d622f30c226ddd5a2f3c3ecd1f8810c8c8dee5ad19b903f02d2f47d2ff89243",
+  "latestReVancedMusicVersion": "5.16.51",
+  "latestReVancedMusicHash": "5cb9b0353a92d360af2eaef15407559de6f9e8b87508d88dc4947463e66fa104",
+  "latestMicroGVersion": "0.2.24.220220",
+  "latestAppVersion": "1.2.1",
+  "downloadUrl": "https://github.com/Lyceris-chan/revanced-repo/releases/download/17.29.34/revanced-nonroot-signed.apk",
+  "musicDownloadUrl": "https://github.com/Lyceris-chan/revanced-repo/releases/download/17.29.34/revanced-music-nonroot-signed.apk",
+  "microGDownloadUrl": "https://github.com/Lyceris-chan/revanced-repo/releases/download/17.29.34/vanced-microG.apk",
+  "appDownloadUrl": "https://github.com/Lyceris-chan/ReVancedUpdater/releases/download/1.2.1/app-release-signed.apk"
+}
