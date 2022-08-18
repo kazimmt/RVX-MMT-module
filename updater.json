@@ -1,6 +1,6 @@
 {
-    "version": "v17.31.36",
-    "versionCode": 10,
+    "version": "v17.32.38",
+    "versionCode": 9,
     "zipUrl": "https://github.com/kazimmt/revanced-repo/releases/download/17.31.36/revanced-17.31.36-MMT-MagiskModule.zip",
     "changelog": "https://raw.githubusercontent.com/kazimmt/ReVanced-Updates/main/fakechangelog.md"
 }
