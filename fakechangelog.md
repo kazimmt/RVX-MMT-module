@@ -1,8 +1,6 @@
-# YouTube Music ReVanced Extended v5.36.51 Remastered
+# YouTube Music ReVanced Extended v5.39.52
 
-- add: `enable-zen-mode` patch
-
-- add: `enable-force-shuffle` patch
+- bump base to YouTube Music v5.39.52
 
 See the Changelog in the Telegram post.
 https://t.me/revanced_mmt
