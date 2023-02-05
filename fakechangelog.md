@@ -1,5 +1,4 @@
 # YouTube ReVanced Extended 18.04.41
-
 - bumpd YouTube base 18.04.41
 - add `Enable save brightness` toggle (swipe gesture)
 - add `hide-tooltip-content` patch
@@ -15,8 +14,6 @@
 - fix: default video quality not applied in portrait video
 - refactor: `always-autorepeat` patch
 - fix some new bugs, add some new bugs
-
 Thanks to ReVanced team & Inotia00
-
 Join Our Telegram Channel:
 https://t.me/revanced_mmt
