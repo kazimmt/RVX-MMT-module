@@ -4,7 +4,7 @@
 - add `hide-tooltip-content` patch
 - add `hide-fullscreen-panels` patch
 - add `disable-shorts-player-pip` patch (Experimental Flags)
-- remove `hide-fullscreen-buttoncontainer` patch (duplicated with `hide-fullscreen-panels` patch)
+- remove `hide-fullscreen-buttoncontainer` patch
 - remove `custom-video-buffer` patch: no longer valid in the latest YT
 - fix: `Hide info cards` setting also removes info cards in video description panels
 - fix: `Hide shorts player subscriptions button` setting removes the subscribe button in channel info
@@ -15,5 +15,6 @@
 - refactor: `always-autorepeat` patch
 - fix some new bugs, add some new bugs
 Thanks to ReVanced team & Inotia00
+
 Join Our Telegram Channel:
 https://t.me/revanced_mmt
