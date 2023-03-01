@@ -1,7 +1,7 @@
-# YouTube Music ReVanced Extended v5.44.53
+# YouTube Music ReVanced Extended v5.46.52
 
-- bump base to YouTube Music v5.44.53
-- refactor: better method is used for settings-framework
+- bump base to YouTube Music v5.46.52
 
-See the Changelog in the Telegram post.
-https://t.me/revanced_mmt
+Thanks to ReVanced Team & inotia00
+
+Join Telegram Channel: https://t.me/revanced_mmt
