@@ -3,7 +3,7 @@
 - fix(return-youtube-dislike): dislike count gets still removed after pressing like
 - fix: `Hide community posts in home feed` does not work
 - fix incorrect switch description
-- fix: video thumbnail hides in feed
+- fix: video thumbnail automatically hides in feed
 - refactor(enable-old-quality-layout): match with the official ReVanced's source code
 - refactor(default-video-quality): improve the patch method
 
