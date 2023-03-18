@@ -5,6 +5,7 @@
 - add `disable-quic-protocol` patch
 - add `lift-vertical-video-restriction` patch
 - add `enable-timestamps-speed` patch
+- add `Hide thanks button`
 - fix(return-youtube-dislike): fix right to left text layout
 
 
