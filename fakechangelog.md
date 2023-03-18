@@ -8,6 +8,6 @@
 - add `Hide thanks button`
 - fix(return-youtube-dislike): fix right to left text layout
 
-
 Thanks to ReVanced team & Inotia00
 Join ReVanced MMT Telegram Channel: https://t.me/revanced_mmt
+Check more changelog on Telegram
