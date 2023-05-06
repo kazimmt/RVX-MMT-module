@@ -7,7 +7,9 @@
 - add `hide-get-premium` patch
 - add `custom-double-tap-length` patch
 - add `Hide audio track button` settings
-- user selectable version to spoof
+- removed `powertube` from default downloader & set NewPipe as Default
+- add `YTDLnis` in the downloader list inside YouTube.
+- user selectable version to spoof (spoof-app-version patch)
 - more bugs & features improvement
 
 Thanks to ReVanced team & Inotia00
