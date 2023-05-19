@@ -1,6 +1,6 @@
-## YouTube Music ReVanced Extended v6.01.55
+## YouTube Music ReVanced Extended v6.02.53
 
-- bumped base to YT Music 6.01.55
+- bumped base to YT Music 6.02.53
 
 Thanks to ReVanced Team & inotia00
 
