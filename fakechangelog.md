@@ -1,7 +1,8 @@
-## YouTube Music ReVanced Extended v6.04.51
+## YouTube Music ReVanced Extended v6.08.50
 
-- bumped base to YT Music 6.04.51
+- bumped base to YT Music 6.08.50
+- Read full changelog on our Telegram Channel
 
 Thanks to ReVanced Team & inotia00
 
-Join Telegram Channel: https://t.me/revanced_mmt
+Telegram: https://t.me/revanced_mmt
