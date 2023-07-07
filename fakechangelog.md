@@ -3,4 +3,5 @@
 - Check full changelog on our Telegram Channel
 
 Thanks to ReVanced team & Inotia00
-Join ReVanced MMT Telegram Channel: https://t.me/revanced_mmt
+
+Telegram: https://t.me/revanced_mmt
