@@ -1,6 +1,6 @@
 ## YouTube ReVanced Extended 18.25.40
 - bumped YouTube base 18.25.40
-- - add enable-new-comment-popup-panels patch
+- add enable-new-comment-popup-panels patch
 - feat(youtube/hide-description-component): add Hide game sections, Hide info cards sections settings
 feat(youtube/hide-layout-components): add Hide browse store button settings
 - feat(youtube/hide-button-container): removed settings marked as Experimental Flags (these settings no longer fixable in latest YouTube)
