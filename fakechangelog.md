@@ -1,4 +1,4 @@
-## YouTube Music ReVanced Extended v6.14.59
+## YouTube Music ReVanced Extended v6.14.50
 
 - bumped base to YT Music 6.14.50
 - add `hide-channel-guidelines` patch
