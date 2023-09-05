@@ -1,6 +1,6 @@
 {
-    "version": "v6.15.51",
-    "versionCode": 61551,
-    "zipUrl": "https://github.com/kazimmt/RVX-MMT-module/releases/download/19-08/RVX-music-arm64-OG.zip",
+    "version": "v6.17.52",
+    "versionCode": 61752,
+    "zipUrl": "https://github.com/kazimmt/RVX-MMT-module/releases/download/v230905/arm64_RVXMusic_6.17.52_OG.zip",
     "changelog": "https://raw.githubusercontent.com/kazimmt/RVX-MMT-module/YTM-Module-1/fakechangelog.md"
 }
