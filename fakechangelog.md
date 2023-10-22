@@ -1,9 +1,8 @@
-## YouTube Music ReVanced Extended v6.19.52
+## YouTube Music ReVanced Extended v6.23.54
 
-- bumped base to YT Music 6.19.52
+- bumped base to YT Music 6.23.54
 
-
-[Check full Changelog here](https://kazimmt.github.io/RVX-Features/changelog/ytm-rvx-changelog/#22-september-2023)
+There are many changes. I'll update them on github page later.
 
 Thanks to ReVanced Team & inotia00
 
