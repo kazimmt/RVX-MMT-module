@@ -1,11 +1,6 @@
-## YouTube ReVanced Extended 18.36.39
-- bumped YouTube base 18.36.39
-- fix (whitelist): SponsorBlock option disappear
-- fix (hide-quality-footer): hide-quality-footer
-- bypass-ambient-mode-restrictions: update fingerprint
-- add: Ads whitelist
-- fix: some old bugs
-- add: some new bugs
+## YouTube ReVanced Extended 18.40.34
+- bumped YouTube base 18.40.34
+- more changes (i'll update them later)
 
 [Old changelog](https://kazimmt.github.io/RVX-Features/changelog/yt-rvx)
 
