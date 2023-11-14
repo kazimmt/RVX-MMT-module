@@ -1,8 +1,11 @@
-## YouTube Music ReVanced Extended v6.23.54
+## YouTube Music ReVanced Extended v6.27.53
 
-- bumped base to YT Music 6.23.54
+- bumped base to YT Music 6.27.53
+- Hide flyout panel: add `Hide help & feedback` settings
+- add `Sanitize sharing links` patch
+- & Fixes old bugs
 
-There are many changes. I'll update them on github page later.
+[Read old Changelog](https://kazimmt.github.io/RVX-Features/changelog/ytm-rvx-changelog)
 
 Thanks to ReVanced Team & inotia00
 
