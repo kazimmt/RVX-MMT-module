@@ -4,6 +4,7 @@
 - Hide flyout panel: add `Hide help & feedback` settings
 - add `Sanitize sharing links` patch
 - & Fixes old bugs
+- & Fixes old bugs
 
 [Read old Changelog](https://kazimmt.github.io/RVX-Features/changelog/ytm-rvx-changelog)
 
