@@ -1,15 +1,23 @@
-## YouTube ReVanced Extended 18.45.43
-- bumped YouTube base 18.45.43
-- add `Hide 'For You' shelf` settings
-- add `Hide podcast sections` settings
-- Hide description components: add `Hide shopping links` settings
-- Hide navigation buttons: add `Hide notifications button` settings
-- Spoof app version: add target version 18.38.45 - Restore old default video quality behavior
-- Swipe controls: restore `press-to-swipe gesture` and `press-to-swipe haptic feedback` settings
-- Settings: now `Import / Export settings` exportable as text as well as file
-- separate the `Shorts outline button patch` from `Overlay buttons` patch
-- separate the `Hide channel profile components patch` from `Hide layout components` patch
-- Overlay buttons: removed `pause after repeat` feature 
+## YouTube ReVanced Extended 19.02.39
+- bumped YouTube base 19.02.39 [Final Version of RVX]
+- add `Force fullscreen` patch
+- add `Hide voice search button` patch
+- add `Change start page` patch | remove `Change homepage` patch
+- add `Enable bottom player gestures` patch
+- add `Remove viewer discretion dialog` patch
+- add `Change player flyout panel toggles` patch
+- add `Disable update screen` patch
+- add `Keep landscape mode` patch
+- add `Enable shorts default playback speed` settings
+- add `Hide preview comment type` settings
+- add `Hide comments by members banner` settings
+- add `Hide videos with gray description` settings
+- add `Hide create shorts button` settings
+- add `Close interstitial ads` settings
+- add `Swipe gestures in 'Lock screen' mode` settings
+- add `Hide store tab` settings
+- `Import / Export as file` is no longer save in `*.json` format, and is saved in `*.txt` format
+- remove `Hide transcript` button setting
 - more fixes
 
 [Old changelog](https://kazimmt.github.io/RVX-Features/changelog/yt-rvx)
