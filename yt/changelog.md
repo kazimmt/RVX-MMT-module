@@ -1,14 +1,13 @@
-# YouTube ReVanced 19.16.39
-- bumped YouTUbe base to 19.16.39
-- **Playback speed**: Add option to show speed dialog button in video player
-- **Tablet Layout**: Modern tablet mini player
-- **Hide layout components**: Disable like / subscribe button glow animation
-- **Spoof client**: Restore playback speed menu when spoofing to an iOS client
-- **Spoof client**: Allow swipe gestures to enter/exit fullscreen when spoofing with `Android VR` client
+# YouTube ReVanced 19.34.42
+- bumped YouTUbe base to 19.34.42
+- **Hide layout components** Add option to hide `YouTube Doodles`
+- **Hide Shorts components** Add option to hide `Use template`, `Upcoming`, `Green screen` buttons
+- **Hide Shorts components**Add option to hide `like fountain`
+- **Hide Shorts components**Hide `Hashtag` button
+- Removed `Restore old seekbar thumbanils` patch
+& many more
 
-Note: Root users can disable `Client Spoof` from `ReVanced Settings` > `Misc`
-
-There are still few bugs. Check [Here](https://github.com/ReVanced/revanced-patches/issues/3208)
+Note: Root users can disable `Spoof Video Stream` from `ReVanced Settings` > `Misc`
 
 Thanks to ReVanced team
 
