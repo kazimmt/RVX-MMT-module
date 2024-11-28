@@ -1,4 +1,4 @@
-# YouTube ReVanced 19.46.45
+# YouTube ReVanced 19.46.42
 - bumped YouTUbe base to 19.46.42
 - **Theme**: Apply custom seekbar color to splash screen animation (OG icon only)
 - **Spoof video streams**: Log out the iOS client to restore kids videos playback
