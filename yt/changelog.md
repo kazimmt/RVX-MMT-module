@@ -1,9 +1,13 @@
-# YouTube ReVanced 19.46.42
-- bumped YouTUbe base to 19.46.42
-- **Theme**: Apply custom seekbar color to splash screen animation (OG icon only)
-- **Spoof video streams**: Log out the iOS client to restore kids videos playback
-- **Settings**: Do not clip settings menus when using an Android 15 device
-- **Playback speed**: Allow long press 2x speed when using custom playback speeds
+# YouTube ReVanced 19.47.43
+- bumped YouTube base to 19.47.53
+- Add Open `Shorts in regular player` patch
+- Add `Force original audio` patch
+- Add `Open videos fullscreen` patch
+- Comments: Add Hide `Chat summary`
+- Hide feed components: Remove obsolete `Hide search result shelf` header option
+- Navigation buttons: Add options to disable translucent status bar and navigation bar
+- Hide ads: Hide new type of featured promotions
+- Some modification in spoof stream to fix playback
 
 Note: Root users can disable `Spoof Video Stream` from `ReVanced Settings` > `Misc`
 
